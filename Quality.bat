@@ -1,0 +1,1 @@
+echo "Qulity to the Project: %date% : %time%"
